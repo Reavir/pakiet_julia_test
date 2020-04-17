@@ -1,0 +1,7 @@
+name = "svopt"
+uuid = "6d2197cd-de75-4db5-a70f-fab705f10c97"
+authors = ["Piotr Babicz <lepnik01@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
